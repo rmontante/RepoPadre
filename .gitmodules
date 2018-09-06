@@ -1,0 +1,3 @@
+[submodule "repo-5"]
+	path = repo-5
+	url = git@github.com:rmontante/repo-5.git
